@@ -13,7 +13,8 @@ public class ball : Bchara
     // Update is called once per frame
     void Update()
     {
-        
+        //mionooijoioijoijoij
+
     }
 
     private void LateUpdate()
