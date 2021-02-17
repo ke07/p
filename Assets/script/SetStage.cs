@@ -31,7 +31,7 @@ public class SetStage : MonoBehaviour
         //bg_front.transform.localScale = new Vector3(stage_width * bg_front.transform.localScale.x, stage_height * bg_front.transform.localScale.y, 1);
         //bg_back.transform.localScale = new Vector3(stage_width * bg_back.transform.localScale.x, stage_height * bg_back.transform.localScale.y, 1);
 
-       
+        Application.targetFrameRate = 60;
 
         for (int i=0;i<stage_height;i++)
         {
